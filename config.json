@@ -1,0 +1,29 @@
+{
+  "username": "ameyy420",
+  "fetch_live_stats": true,
+  "ascii_cols": 80,
+  "sections": {
+    "About": {
+      "Name": "Md. Mahmudul Hasan Amey",
+      "Focus": "Mobile apps, Data Structures, Problem Solving"
+    },
+    "Languages": {
+      "Programming": "C, Java, Dart",
+      "Framework": "Flutter",
+      "Real": "Bengali"
+    },
+    "Projects": {
+      "Console": "Department Store Management System",
+      "DSA": "Course Registration, Event Seating Allocator",
+      "OOP": "Hostel Management System"
+    },
+    "Contact": {
+      "GitHub": "github.com/ameyy420",
+      "Facebook": "facebook.com/ameyy.420"
+    }
+  },
+  "stats": {
+    "Repos": 9
+  },
+  "ascii_font": 9
+}
